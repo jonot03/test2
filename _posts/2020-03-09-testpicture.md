@@ -7,5 +7,5 @@ tags:
   - Raptor
 
 ---
-![Blue-Gray Gnatcatcher](/test2/BlueGrayGnatcatcher.jpg)
+![Blue-Gray Gnatcatcher](/assets/images/BlueGrayGnatcatcher.jpg)
 lorem ipsum
